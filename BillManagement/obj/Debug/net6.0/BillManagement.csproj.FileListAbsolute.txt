@@ -1,0 +1,45 @@
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.exe
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.deps.json
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.runtimeconfig.json
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.dll
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.pdb
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.csproj.AssemblyReference.cache
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfoInputs.cache
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfo.cs
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.csproj.CoreCompileInputs.cache
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.dll
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\refint\BillManagement.dll
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.pdb
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.genruntimeconfig.cache
+U:\SEM_5_SU_22_(09-05_04-09)\PRN211\Do_LearningOutcome_Done\LearningOutcome\BillManagement\obj\Debug\net6.0\ref\BillManagement.dll
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.exe
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.deps.json
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.runtimeconfig.json
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.dll
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\bin\Debug\net6.0\BillManagement.pdb
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.csproj.AssemblyReference.cache
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfoInputs.cache
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfo.cs
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.csproj.CoreCompileInputs.cache
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.dll
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\refint\BillManagement.dll
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.pdb
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\BillManagement.genruntimeconfig.cache
+U:\Source_Git_MicrosoftVisualStudio\PRN211\LearningOutcome\BillManagement\obj\Debug\net6.0\ref\BillManagement.dll
+G:\Share Github\Bill_Management_C#\BillManagement\bin\Debug\net6.0\BillManagement.exe
+G:\Share Github\Bill_Management_C#\BillManagement\bin\Debug\net6.0\BillManagement.deps.json
+G:\Share Github\Bill_Management_C#\BillManagement\bin\Debug\net6.0\BillManagement.runtimeconfig.json
+G:\Share Github\Bill_Management_C#\BillManagement\bin\Debug\net6.0\BillManagement.dll
+G:\Share Github\Bill_Management_C#\BillManagement\bin\Debug\net6.0\BillManagement.pdb
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.csproj.AssemblyReference.cache
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfoInputs.cache
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfo.cs
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.csproj.CoreCompileInputs.cache
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.dll
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\refint\BillManagement.dll
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.pdb
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\BillManagement.genruntimeconfig.cache
+G:\Share Github\Bill_Management_C#\BillManagement\obj\Debug\net6.0\ref\BillManagement.dll
